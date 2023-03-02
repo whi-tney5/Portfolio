@@ -1,0 +1,17 @@
+ <!DOCTYPE html>
+ <html>
+    <head>
+        <title>goggle homepage</title>
+    </head>
+    <body>
+        <header>
+            <ul class="header">
+                <a href="#">About</a>
+                <a href="#">Store</a>
+            </ul>
+            <u1 class="header">
+                <a href="#">gmail</a>
+                <a href="#">img</a>
+            </u1>
+        </header>
+    </body>
